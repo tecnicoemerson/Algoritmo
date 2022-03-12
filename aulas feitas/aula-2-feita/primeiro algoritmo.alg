@@ -27,5 +27,4 @@ escreval("identificador: tipo")
 escreval("msg: caractere")
 Escreval("msg")
 escreval("mensagem,", "'msg'")
-
 fimalgoritmo
