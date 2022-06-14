@@ -33,8 +33,8 @@ Inicio
 
 
          Se(Decisao = 1)entao
-            Para i <- 1 até 4 passo 1 faca
-               Para j <- 1 até 4 passo 1 faca
+            Para i <- 1 ate 4 passo 1 faca
+               Para j <- 1 ate 4 passo 1 faca
                   Escreva(V[i,j]:4)
                Fimpara
                Escreval()
@@ -59,8 +59,8 @@ Inicio
 
 
          Se(Decisao = 3)entao
-            Para i <- 1 até 4 passo 1 faca
-               Para j <- 1 até 4 passo 1 faca
+            Para i <- 1 ate 4 passo 1 faca
+               Para j <- 1 ate 4 passo 1 faca
 
                   Se(i = 2)e(j = 1)entao
                      Escreva("    ")
@@ -111,8 +111,8 @@ Inicio
 
 
          Se(Decisao = 4)entao
-            Para i <- 1 até 4 passo 1 faca
-               Para j <- 1 até 4 passo 1 faca
+            Para i <- 1 ate 4 passo 1 faca
+               Para j <- 1 ate 4 passo 1 faca
 
                   Se(i = 2)e(j = 1)entao
                      Escreva(V[i,j]:4)
